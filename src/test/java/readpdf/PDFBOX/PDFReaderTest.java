@@ -23,7 +23,7 @@ public class PDFReaderTest {
 
 		WebDriver driver=new ChromeDriver();
 		
-		//download pdf and keep it in local folder
+		////download pdf and keep it in local folder
 
 		driver.get("file:///C:/Users/703235924/Downloads/employee-information-form-download-20170810.pdf");
 
